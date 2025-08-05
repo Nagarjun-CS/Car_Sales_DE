@@ -33,12 +33,11 @@ This project demonstrates an end-to-end **data engineering pipeline** for ingest
   - Fetches the checkpoint date.
   - Loads only **new data** from Azure SQL → ADLS (Bronze Layer) in Parquet format.
   - Updates the checkpoint table using a stored procedure.
-
-![Incremental Load Flow](./26ffc0bf-bac5-4512-a082-995cf51c9070.png)
-
 ---
 
 ## 🪄 Data Transformation with Databricks
+
+![databricks](https://github.com/Nagarjun-CS/Car_Sales_DE/blob/main/Databricks%20Pipeline.png)
 
 ### 🔸 Silver Layer
 - Cleaned and formatted data.
