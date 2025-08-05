@@ -46,7 +46,7 @@ This project demonstrates an end-to-end **data engineering pipeline** for ingest
 ### 🔸 Gold Layer
 - Implemented **Star Schema** with dimension and fact tables.
 - Applied **SCD Type 1** logic for slowly changing dimensions.
-- Stored in Gold zone (ADLS) in Parquet format.
+- Stored in Gold zone (ADLS) in Delta format.
 
 ### 🔸 Orchestration
 - Notebooks developed for:
