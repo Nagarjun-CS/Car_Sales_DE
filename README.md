@@ -19,7 +19,7 @@ This project demonstrates an end-to-end **data engineering pipeline** for ingest
 
 ## 🚀 Pipeline Overview
 
-!Pipeline(https://github.com/Nagarjun-CS/Car_Sales_DE/blob/main/Azure%20Pipeline.png)
+![Pipeline](https://github.com/Nagarjun-CS/Car_Sales_DE/blob/main/Azure%20Pipeline.png)
 
 ### 🔹 Step 1: Data Ingestion
 - Raw car sales data (`.csv`) is stored in [GitHub](https://github.com/Nagarjun-CS/Car_Sales_DE).
