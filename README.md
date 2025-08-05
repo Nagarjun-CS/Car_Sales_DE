@@ -62,6 +62,3 @@ This project demonstrates an end-to-end **data engineering pipeline** for ingest
 - **Azure Synapse**: Connected for advanced analytics and queries.
 
 ---
-
-## 📁 Project Structure
-
