@@ -2,7 +2,7 @@
 
 This project demonstrates an end-to-end **data engineering pipeline** for ingesting, transforming, and serving car sales data using the Azure ecosystem and Databricks, following a Medallion Architecture (Bronze → Silver → Gold). It supports **incremental loading**, **SCD Type 1** logic, and is built for real-world scalability.
 
-![Architecture](./de1.jpg)
+![Architecture](https://github.com/Nagarjun-CS/Car_Sales_DE/blob/main/Architecture%20Diagram.jpg)
 
 ## 🔧 Tech Stack
 
